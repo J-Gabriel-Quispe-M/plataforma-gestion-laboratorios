@@ -140,6 +140,14 @@ Los **Chapters** serán liderados por profesores con mínimo 5 años de experien
 - Proyecto 1: 3er-4to semestre, promedio mínimo 14, portafolio GitHub.
 - Proyecto 2: Haber participado en Proyecto 1 (preferible), conocimientos avanzados en Kubernetes, GitOps y Seguridad.
 
+```diff
+- [Comentario de Gabriel - Responsable de Requisitos de Conocimientos y Habilidades]:
+
+- 1. A favor: Establecer requisitos para cada rol permite distribuir las responsabilidades según la preparación de los participantes.
+- 2. Observación/Riesgo: Algunos requisitos son demasiado elevados para una primera fase universitaria, especialmente los conocimientos avanzados en Kubernetes, GitOps, seguridad y arquitectura. Esto podría limitar la participación de estudiantes que todavía están en proceso de formación.
+- 3. Mejora propuesta: Diferenciar los conocimientos obligatorios para ingresar al proyecto de aquellos que se aprenderán durante su desarrollo, incorporar capacitaciones progresivas y definir competencias concretas y verificables para cada rol.
+```
+
 ---
 
 ## Arquitectura Técnica Propuesta
