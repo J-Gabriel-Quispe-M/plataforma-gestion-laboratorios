@@ -117,6 +117,15 @@ Se ejecutarán dos proyectos secuenciales:
 1. **Proyecto Universitario** (Fase 1)
 2. **Proyecto Empresa** (Fase 2)
 
+```diff
+- [Comentario de Cristhian Bravo - Responsable de Enfoque Metodológico]:
+
+- 1. A favor: La propuesta utiliza un enfoque ágil y organiza el trabajo en equipos multidisciplinarios, lo cual se ajusta bien al contexto universitario y empresarial.
+- 2. Observación/Riesgo: El uso del Modelo Spotify adaptado puede resultar poco claro si no se detallan los roles, responsabilidades y mecanismos de coordinación entre Tribes, Squads, Chapters y Guilds.
+- 3. Observación/Riesgo: La separación en dos proyectos secuenciales podría generar problemas de continuidad si no se define cómo se transicionará entre la fase universitaria y la fase empresarial.
+- 4. Mejora propuesta: Complementar el enfoque metodológico con un cuadro de roles, ceremonias ágiles y entregables esperados por fase para que sea más aplicable y fácil de implementar.
+```
+
 ---
 
 ## Modelo Organizacional Ágil (Spotify Adaptado)
