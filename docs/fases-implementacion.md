@@ -1,64 +1,111 @@
-# Fases de Implementación en 5 fases
+# Fases de Implementación
 
-La implementación del proyecto se desarrolla de manera progresiva a través de cinco fases principales. Cada etapa tiene objetivos específicos que permiten planificar, desarrollar, validar e implementar la solución de forma ordenada, minimizando riesgos y asegurando la calidad de los resultados obtenidos.
-
-## 1. **Fase 0:** Análisis y Diseño (1 mes)
-
-En esta fase se realiza el levantamiento de información y el análisis de los requerimientos del proyecto. Se identifican las necesidades de los usuarios, los procesos actuales y los objetivos que deberá cumplir la solución propuesta. Además, se define la arquitectura del sistema, el modelo de datos, el cronograma inicial y los recursos necesarios para la implementación.
-
-También se establecen los criterios de éxito del proyecto, los riesgos potenciales y las estrategias de mitigación que servirán como base para las siguientes etapas.
+La implementación del **Modelo Spotify Adaptado** se plantea de forma progresiva mediante cinco fases. Cada etapa busca garantizar una adopción ordenada de la metodología, permitiendo validar los procesos, fortalecer la coordinación entre equipos y asegurar la continuidad entre el proyecto universitario (P1) y el proyecto empresarial (P2).
 
 ---
 
-## 2. **Fase 1:** Proyecto Universitario (4-6 meses)
+## 1. **Fase 0: Análisis y Diseño (1 mes)**
 
-Durante esta etapa se desarrolla un prototipo funcional en un entorno académico, permitiendo validar la viabilidad técnica de la propuesta antes de implementarla en un entorno empresarial. Se construyen los módulos principales, se realizan pruebas unitarias e integraciones parciales y se documenta el desarrollo conforme avanzan las iteraciones del proyecto.
+Durante esta fase se establecen las bases para la implementación del modelo organizacional. Se identifican los objetivos del proyecto, se conforman los equipos de trabajo (Tribe, Squads, Chapters y Guilds) y se definen las responsabilidades de cada rol utilizando una matriz RACI simplificada.
 
-Asimismo, esta fase permite recibir retroalimentación por parte de docentes y compañeros, identificar errores tempranos y realizar mejoras continuas que fortalezcan la calidad del sistema antes de su despliegue en escenarios reales.
+Asimismo, se planifican las ceremonias ágiles, se configura la infraestructura de gestión (Jira, Wiki, repositorios Git, CI/CD) y se capacita a todos los participantes en los principios del Modelo Spotify Adaptado para asegurar una comprensión homogénea de la metodología.
 
----
+**Entregables principales:**
 
-## 3. **Fase 2:** Proyecto Empresa (5-7 meses)
-
-Una vez validado el prototipo, la solución se adapta a los procesos y requerimientos específicos de una organización. Durante esta fase se realizan configuraciones, personalizaciones y pruebas funcionales utilizando información y escenarios reales de trabajo.
-
-Además, se capacita a los usuarios responsables de operar el sistema y se monitorea continuamente su funcionamiento para detectar incidencias, evaluar el rendimiento y asegurar que la solución aporte beneficios concretos a la organización.
-
----
-
-## 4. **Fase 3:** Piloto en laboratorios reales
-
-En esta etapa se ejecuta una implementación piloto dentro de un ambiente controlado que simula las condiciones reales de operación. El objetivo es validar el desempeño del sistema antes de su adopción definitiva, evaluando aspectos como estabilidad, seguridad, rendimiento, tiempos de respuesta y experiencia de usuario.
-
-Los resultados obtenidos durante el piloto permiten realizar ajustes finales y reducir los riesgos asociados a la implementación definitiva.
+- Definición de Tribe, Squads, Chapters y Guilds.
+- Matriz RACI y asignación de responsables.
+- Configuración inicial de herramientas colaborativas.
+- Cronograma de ceremonias ágiles.
+- Capacitación inicial del equipo.
 
 ---
 
-## 5. **Fase 4:** Mejora Continua y Documentación
+## 2. **Fase 1: Implementación del Proyecto Universitario (4–6 meses)**
 
-La última fase está orientada a garantizar la sostenibilidad del proyecto mediante un proceso permanente de evaluación y mejora. Se documentan todos los componentes técnicos y funcionales del sistema, incluyendo manuales de usuario, documentación técnica, procedimientos de mantenimiento y registro de incidencias.
+En esta etapa se pone en práctica el Modelo Spotify dentro del entorno universitario. Cada Squad desarrolla de forma autónoma las funcionalidades asignadas mediante sprints de dos semanas, mientras los Chapters supervisan la calidad técnica y los Guilds promueven el intercambio de buenas prácticas entre los equipos.
 
-Adicionalmente, se establecen mecanismos de seguimiento para identificar oportunidades de optimización, incorporar nuevas funcionalidades y asegurar que el sistema continúe respondiendo a las necesidades de la organización a lo largo del tiempo.
+Durante todo el desarrollo se ejecutan ceremonias ágiles como Sprint Planning, Daily Standups, Sprint Reviews y Retrospectives, permitiendo realizar un seguimiento continuo del avance y corregir oportunamente cualquier desviación.
+
+Al finalizar cada sprint se entrega un incremento funcional del proyecto y se evalúan indicadores como cobertura de pruebas, deuda técnica, documentación y cumplimiento de objetivos.
+
+**Objetivos de la fase:**
+
+- Validar el funcionamiento del modelo organizacional.
+- Obtener incrementos funcionales del sistema.
+- Fortalecer la colaboración entre Squads.
+- Consolidar la documentación técnica y funcional.
+
+---
+
+## 3. **Fase 2: Transición e Implementación del Proyecto Empresarial (5–7 meses)**
+
+Una vez concluido el proyecto universitario, se inicia una transición gradual hacia el entorno empresarial. Durante las primeras ocho semanas se mantiene un período de superposición (Overlap), donde parte del equipo continúa brindando soporte al Proyecto 1 mientras el resto comienza el desarrollo del Proyecto 2.
+
+La transferencia de conocimiento se realiza mediante sesiones de pair programming, documentación de decisiones arquitectónicas (ADR), talleres técnicos y reuniones entre Squads.
+
+En esta etapa los equipos evolucionan para adaptarse a los nuevos requerimientos empresariales, incorporando funcionalidades más avanzadas relacionadas con escalabilidad, seguridad, analítica y operación en ambientes reales.
+
+**Objetivos de la fase:**
+
+- Garantizar la continuidad entre P1 y P2.
+- Transferir conocimiento sin pérdida de información.
+- Adaptar la arquitectura al entorno empresarial.
+- Reducir riesgos durante la migración.
+
+---
+
+## 4. **Fase 3: Validación Piloto en Entornos Reales**
+
+Con el sistema implementado, se desarrolla una prueba piloto en un entorno controlado que reproduce las condiciones reales de operación. El objetivo es verificar el desempeño del sistema antes de su despliegue definitivo.
+
+Durante esta fase se evalúan indicadores técnicos como disponibilidad, tiempo de respuesta, estabilidad, seguridad y cumplimiento de estándares definidos por el Tribe y los Chapters.
+
+Las observaciones obtenidas permiten realizar ajustes finales antes de considerar el proyecto como completamente operativo.
+
+**Indicadores evaluados:**
+
+- Disponibilidad del servicio.
+- Rendimiento de la plataforma.
+- Seguridad y cumplimiento.
+- Experiencia del usuario.
+- Calidad de la documentación.
+
+---
+
+## 5. **Fase 4: Mejora Continua y Gobernanza**
+
+La última fase tiene como propósito asegurar la evolución permanente del proyecto. Se mantienen activas las ceremonias ágiles, los Chapters continúan supervisando la calidad técnica y los Guilds impulsan la difusión de nuevas prácticas, tecnologías y estándares.
+
+Además, el Tribe monitorea los indicadores estratégicos del proyecto para identificar oportunidades de mejora, priorizar nuevas funcionalidades y garantizar la sostenibilidad del sistema a largo plazo.
+
+La documentación se actualiza continuamente y se establecen revisiones periódicas para reducir la deuda técnica y mantener la alineación entre todos los equipos.
+
+**Resultados esperados:**
+
+- Actualización permanente de la documentación.
+- Disminución de deuda técnica.
+- Mejora continua de procesos.
+- Evolución tecnológica del sistema.
+- Gobernanza estable del proyecto.
 
 ---
 
 <div style="color:red;">
 <strong>Comentario de revisión de Fernando Solsol:</strong><br><br>
 
-<strong>Aspectos positivos:</strong><br>
-La propuesta presenta una implementación organizada en fases secuenciales, lo que facilita la planificación del proyecto y permite validar los resultados de forma progresiva antes de avanzar hacia etapas de mayor complejidad. Esta estructura contribuye a reducir riesgos y favorece un mejor control del proceso de implementación.
+La propuesta presenta una secuencia lógica de implementación que permite adoptar el Modelo Spotify Adaptado de forma gradual, facilitando la coordinación entre Tribe, Squads, Chapters y Guilds durante todo el ciclo del proyecto.
 
 <br><br>
 
-<strong>Puntos a mejorar:</strong>
+<strong>Puntos de mejora:</strong>
 
-1. **Definir roles claros por fase**, especificando responsables, entregables, recursos asignados y criterios de aprobación antes de avanzar a la siguiente etapa.
-2. **Establecer mecanismos de seguimiento y control**, incorporando reuniones periódicas, indicadores de desempeño (KPIs), cronogramas de revisión y espacios de retroalimentación para monitorear el progreso del proyecto.
-3. **Fortalecer la transición entre fases**, definiendo criterios de entrada y salida que eviten solapamientos, ambigüedades o pérdidas de continuidad durante la implementación.
-4. **Incorporar criterios de calidad y gobernanza**, asegurando que cada fase contemple procesos de documentación, revisión técnica, validación funcional y control de versiones para garantizar la consistencia del proyecto.
-5. **Diseñar una estrategia de capacitación y gestión del cambio**, preparando a desarrolladores, administradores y usuarios finales para facilitar la adopción del sistema y asegurar una implementación sostenible.
+1. Definir con mayor detalle los responsables, entregables y criterios de aceptación de cada fase para facilitar el seguimiento del proyecto.
+2. Incorporar indicadores específicos de desempeño (KPIs) que permitan evaluar el avance de cada Squad y medir el cumplimiento de los objetivos establecidos.
+3. Formalizar los mecanismos de transición entre el Proyecto Universitario y el Proyecto Empresarial mediante planes de transferencia de conocimiento y validaciones técnicas.
+4. Reforzar los procesos de gobernanza incorporando revisiones periódicas de arquitectura, auditorías de calidad y seguimiento de la deuda técnica.
+5. Complementar la capacitación inicial con programas continuos de formación para Chapters, Guilds y nuevos integrantes del proyecto.
 
 <br>
 
-Estas recomendaciones fortalecerían la ejecución del proyecto al mejorar la coordinación entre los equipos de trabajo, incrementar la calidad de los entregables y establecer un mayor control sobre cada etapa de implementación. Asimismo, permitirían reducir riesgos operativos, asegurar una transición ordenada entre fases y favorecer una adopción más eficiente de la solución tecnológica, incrementando las probabilidades de éxito y sostenibilidad del proyecto en el largo plazo.
+Estas mejoras fortalecerían la implementación del Modelo Spotify Adaptado, asegurando una mejor coordinación entre equipos, una transición más controlada entre proyectos y una mayor sostenibilidad de la solución a largo plazo.
 </div>
