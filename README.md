@@ -92,8 +92,8 @@ Desarrollar una plataforma híbrida (local + nube) que permita la gestión estan
 - Estudiantes formados con estándares profesionales.
 - Reducción de riesgos operativos.
 
-  ```diff
-- [Comentario de Nagin - Responsable de Objetivos + Justificación y Beneficios]:
+```diff
+- [Comentario de Nagin Carfer - Responsable de Objetivos + Justificación y Beneficios]:
 
 - 1. A favor: Los objetivos están planteados de forma muy ordenada. El beneficio de lograr una menor dependencia de hardware local es un gran acierto, ya que facilitará mucho las prácticas para los estudiantes que no cuentan con equipos de alto rendimiento.
 - 2. Observación/Riesgo: En los objetivos específicos se menciona la integración con herramientas de la universidad, lo cual es un poco ambiguo y podría complicar el alcance del proyecto si no se especifica exactamente qué sistemas (como el aula virtual o la intranet) se van a conectar.
