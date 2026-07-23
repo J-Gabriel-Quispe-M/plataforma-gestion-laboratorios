@@ -32,6 +32,14 @@ Este proyecto propone el desarrollo de una **Plataforma Híbrida** para la gesti
 La solución combina gestión de hardware (computadoras, servidores, impresoras), usuarios, proyectos/cursos, repositorios de código (GitLab) y un catálogo centralizado de imágenes de contenedores (Docker), garantizando **estandarización, trazabilidad y reproducibilidad** de entornos.
 
 ---
+```diff
+- [Comentario de Daniel Guillen - Responsable de Introducción]:
+
+- 1. A favor: La propuesta plantea con claridad el uso de contenedores para unificar los entornos de trabajo, tanto para universidad como para empresa.
+- 2. Observación/Riesgo: No se explica el motivo o la necesidad principal que origina esta propuesta, falta ese contexto inicial.
+- 3. Observación/Riesgo: No se justifica por qué se eligió una arquitectura híbrida en lugar de una completamente en la nube o completamente local.
+- 4. Mejora propuesta: Agregar un párrafo breve al inicio explicando el origen del problema y el criterio detrás de la decisión híbrida.
+```
 
 ## Problemática Común
 
@@ -47,6 +55,14 @@ Los laboratorios universitarios y las empresas de software enfrentan problemas s
 **En el ámbito universitario** se busca especialmente que los alumnos **no pierdan tiempo** en instalaciones y que puedan llevarse las mismas imágenes oficiales a sus computadoras personales para practicar fuera del laboratorio.
 
 ---
+
+```diff
+- [Comentario de Daniel Guillen - Responsable de Problemática Común]:
+
+- 1. A favor: Se identifican con claridad los principales problemas, falta de estandarización y tiempo perdido en configuraciones.
+- 2. Observación/Riesgo: Los problemas se presentan como afirmaciones generales, sin datos ni ejemplos reales que los respalden.
+- 3. Mejora propuesta: Incluir cifras o casos concretos, por ejemplo tiempo promedio perdido por práctica, para sustentar mejor la necesidad de la plataforma.
+```
 
 ## Objetivos
 
