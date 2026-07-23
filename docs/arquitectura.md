@@ -4,7 +4,7 @@
 
 - **Responsable:** kennedy chirinos rojas
 - **Universidad:** Universidad Nacional de San Agustín (UNSA)
-- **Fecha:** Julio 2026
+- **Fecha:** Julio 2026.
 
 ---
 
