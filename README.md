@@ -142,6 +142,14 @@ Los **Chapters** serán liderados por profesores con mínimo 5 años de experien
   - PostgreSQL + MinIO
 - **Infraestructura**: Proxmox VE, Kubernetes (K3s/Talos), Ansible + Terraform
 
+```diff
+- [Comentario de kennedy chirinos - Responsable de Arquitectura Técnica]:
+
+- 1. A favor: La elección de K3s y Harbor es muy acertada para entornos universitarios.
+- 2. Observación/Riesgo: Falta definir el almacenamiento persistente (PV/PVC) como Longhorn o Ceph.
+- 3. Observación/Riesgo: Falta limitar consumo (ResourceQuotas) por usuario para no agotar la RAM del nodo.
+- 4. Mejora propuesta: Incluir Grafana/Prometheus y conectar Keycloak con las cuentas @unsa.edu.pe.
+```
 
 ---
 
