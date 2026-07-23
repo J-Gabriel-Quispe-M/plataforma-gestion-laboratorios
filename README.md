@@ -118,7 +118,7 @@ Se ejecutarán dos proyectos secuenciales:
 2. **Proyecto Empresa** (Fase 2)
 
 ```diff
-- [Comentario de Cristhian Bravo - Responsable de Enfoque Metodológico]:
+- [Comentario de Cristhian Bravo - Responsable de Enfoque Metodológico + Modelo Organizacional Ágil (Spotify Adaptado)]:
 
 - 1. A favor: La propuesta utiliza un enfoque ágil y organiza el trabajo en equipos multidisciplinarios, lo cual se ajusta bien al contexto universitario y empresarial.
 - 2. Observación/Riesgo: El uso del Modelo Spotify adaptado puede resultar poco claro si no se detallan los roles, responsabilidades y mecanismos de coordinación entre Tribes, Squads, Chapters y Guilds.
@@ -146,6 +146,15 @@ Se ejecutarán dos proyectos secuenciales:
 - Squad Integration & Ecosystem
 
 Los **Chapters** serán liderados por profesores con mínimo 5 años de experiencia industrial.
+
+```diff
+- [Comentario de Cristhian Bravo -Responsable de Enfoque Metodológico + Modelo Organizacional Ágil (Spotify Adaptado)]:
+
+- 1. A favor: La estructura propuesta por Tribes, Squads, Chapters y Guilds permite organizar el trabajo de forma flexible y alineada con metodologías ágiles reales.
+- 2. Observación/Riesgo: El modelo puede resultar demasiado genérico si no se especifican los criterios de formación de cada Squad, la autoridad de cada rol y los mecanismos de coordinación entre equipos.
+- 3. Observación/Riesgo: La propuesta no deja del todo claro cómo se manejará la participación de estudiantes y docentes en múltiples equipos sin generar duplicidad de responsabilidades.
+- 4. Mejora propuesta: Incluir un esquema de roles más detallado, reglas de colaboración entre squads y un ejemplo de cómo se vería la organización en una fase inicial del proyecto.
+```
 
 ---
 
