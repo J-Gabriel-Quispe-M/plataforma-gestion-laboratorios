@@ -229,15 +229,35 @@ Esto garantiza **estandarización y trazabilidad completa**.
 
 ## Fases de Implementación
 
-1. Análisis y Diseño (1 mes)
-2. Desarrollo Proyecto Universitario (4-6 meses)
-3. Evolución a Proyecto Empresa (5-7 meses)
-4. Piloto y Puesta en Producción
-5. Mejora Continua
+**Implementación del Modelo Spotify Adaptado:**
+1. Análisis y diseño de la estructura organizacional (Tribe, Squads, Chapters y Guilds).
+2. Implementación del proyecto universitario mediante sprints y ceremonias ágiles.
+3. Transición controlada hacia el proyecto empresarial con transferencia de conocimiento.
+4. Validación piloto en un entorno real para verificar rendimiento y seguridad.
+5. Mejora continua mediante gobernanza, documentación y seguimiento de indicadores.
+
+Esto garantiza una **implementación progresiva, organizada y sostenible**, asegurando la continuidad del proyecto y la colaboración entre todos los equipos.
+
+```diff
+- [Comentario de Rafael Solsol - Responsable de fases de implementación]&#58;
+- 1. A favor: La implementación por fases permite adoptar el Modelo Spotify de manera gradual, reduciendo riesgos y facilitando la coordinación entre Tribe, Squads, Chapters y Guilds.
+- 2. Observación/Riesgo: Es necesario definir con mayor detalle los responsables, entregables y criterios de aceptación de cada fase para asegurar un adecuado seguimiento del proyecto.
+- 3. Observación/Riesgo: La transición entre el Proyecto Universitario y el Proyecto Empresarial debe contar con un plan formal de transferencia de conocimiento para evitar pérdida de información.
+- 4. Mejora propuesta: Incorporar indicadores de desempeño (KPIs), revisiones periódicas de arquitectura y programas continuos de capacitación que fortalezcan la gobernanza y la mejora continua del proyecto.
+```
 
 ---
 
-## Conclusiones y Recomendaciones
+## Conclusiones
+
+- La adopción del **Modelo Spotify Adaptado** proporciona una estructura organizacional clara, promoviendo equipos autónomos y una mejor coordinación durante el desarrollo del proyecto.
+- La implementación por fases facilita la planificación, el seguimiento y la reducción de riesgos, permitiendo validar cada etapa antes de avanzar a la siguiente.
+- La integración de ceremonias ágiles, transferencia de conocimiento y mejora continua contribuye a mantener la calidad técnica y la sostenibilidad de la solución.
+- En conjunto, la propuesta ofrece una metodología escalable y organizada que puede evolucionar desde un entorno universitario hasta una implementación empresarial de manera eficiente.
+
+---
+
+## Recomendaciones
 
 Esta plataforma representa una oportunidad estratégica para modernizar los laboratorios de la universidad, elevar la calidad formativa y generar un activo tecnológico de alto valor transferable a la industria.
 
