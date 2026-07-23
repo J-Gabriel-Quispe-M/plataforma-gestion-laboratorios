@@ -1,4 +1,4 @@
-# Fases de Implementación
+# Fases de Implementación en 5 fases
 
 1. **Fase 0:** Análisis y Diseño (1 mes)
 2. **Fase 1:** Proyecto Universitario (4-6 meses)
