@@ -7,7 +7,7 @@
 5. **Fase 4:** Mejora Continua y Documentación
 
 <div style="color:red;">
-<strong>Comentario de revisión de Cristhian Bravo:</strong>
+<strong>Comentario de revisión de Fernando Solsol:</strong>
 
 A favor: la propuesta debería reforzar la organización del trabajo y la definición de métodos de ejecución, para que las fases se desarrollen con mayor claridad, coordinación y seguimiento entre equipos.
 
