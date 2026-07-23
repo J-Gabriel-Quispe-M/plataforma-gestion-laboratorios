@@ -217,6 +217,13 @@ Los **Chapters** serán liderados por profesores con mínimo 5 años de experien
 7. Actualizaciones controladas
 
 Esto garantiza **estandarización y trazabilidad completa**.
+```diff
+- [Comentario de Brigitte Mengoa - Responsable de gestión de imágenes y trazabilidad]&#58; 
+- 1. A favor: El flujo propuesto asegura una buena trazabilidad de las imágenes desde su creación hasta su distribución.
+- 2. Observación/Riesgo: No se especifica una política de versionado y retención de imágenes para evitar el uso de versiones obsoletas.
+- 3. Observación/Riesgo: Falta definir el mecanismo de control de acceso para la descarga segura de imágenes por parte de estudiantes y docentes.
+- 4. Mejora propuesta: Incorporar auditoría de eventos y notificaciones automáticas ante imágenes con vulnerabilidades críticas detectadas por Trivy.
+```
 
 ---
 
