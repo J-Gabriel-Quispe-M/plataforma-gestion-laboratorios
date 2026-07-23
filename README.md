@@ -142,7 +142,7 @@ Los **Chapters** serán liderados por profesores con mínimo 5 años de experien
   - PostgreSQL + MinIO
 - **Infraestructura**: Proxmox VE, Kubernetes (K3s/Talos), Ansible + Terraform
 
-<span style="color:red">Al leer el documento note que la parte de arquitectura técnica, Proxmox, Kubernetes, Harbor, Keycloak, plantea un nivel de complejidad que quizás no corresponde a una primera versión hecha por estudiantes</span>
+
 ---
 
 ## Gestión de Imágenes y Trazabilidad
